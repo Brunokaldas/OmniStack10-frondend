@@ -1,3 +1,5 @@
+Aplicação para cadastrar desenvolvedores salvando suas tecnologias, localização e página do github que foi construida na semana OmniStack 10 da Rocketseat.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
